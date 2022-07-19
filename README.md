@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaeen Singh</h1>
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
-<h3 align="center">Main account here (<a href="https://github.com/scriptjumper-sovtech/scriptjumper" target="_blank">)</h3>
+<h3 align="center">Main account here (<a href="https://github.com/scriptjumper-sovtech/scriptjumper" target="_blank">scriptjumper</a>)</h3>
 
 <p align="left"> <a href="https://github.com/scriptjumper"><img src="https://komarev.com/ghpvc/?username=scriptjumper-sovtech&label=Profile%20views&color=0e75b6&style=flat" alt="scriptjumper-sovtech" /></a> </p>
 
