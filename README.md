@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I always try to tell my bird telepathically that its ok to speak English to me in hopes we'd form a special bond because of it.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
